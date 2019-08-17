@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FICHES SYSTEM "fiches.dtd">
+<?xml-stylesheet type="text/xsl" href="fiche.xsl"?>
+<FICHES>
+    <FICHE id="1">
+        <BE>PNR 12/2011 – 04/06/2011	</BE>
+        <TY>TY : Fiche terminologique arabe-français : concepts médicaux	</TY>
+        <AU>AU : AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina  	</AU>
+        <Langue id="AR">
+            <DO>DO : Médecine &amp; Orthophoni</DO>
+            <SD>SD : ORL; Audiologie; Surdit</SD>
+            <VE>VE  : الصمم		</VE>
+            <DF>DF  : حرمان من حاسة السمع منذ الولادة إلى درجة تجعل الكلام المنطوق مستحيلا مع أو بدون المعينات السمعية. 		</DF>
+            <PH>PH  : الصمم بعد اللغوي.		</PH>
+            <NT>NT  : من الممكن مساعدة بعض الصم إما بإجراء عملية جراحية لهم أو بتزويدهم بمعينات سمعية.		</NT>
+            <RF>RF  |  DF :	VE :محمد السيد حلاوة، الرعاية الاجتماعية للطفل الأصم، المكتب العلمي للنشر، الإسكندرية، 1996، ص 293، ص 32.</RF>
+            <RF>RF | PH :	جمال الخطيب، مقدمة في الإعاقة السمعية، دار الفكر للطباعة والنشر، عمان، 1998، الطبعة الأولى، 303 ص، ص 27.	</RF>
+            <RF>RF | NT :	جمال الخطيب، المرجع السابق، ص 18.	</RF>
+        </Langue>
+        <Langue id="FR">
+            <DO>DO :Médecine &amp; Orthophoni</DO>
+            <SD>SD :ORL; Audiologie; Surdit</SD>
+            <VE>VE  : Surdité		</VE>
+            <DF>DF  : Trouble sensoriel auditif de la perception des formes acoustiques.		</DF>
+            <PH>PH  : Surdité acquise. 		</PH>
+            <NT>NT  : Il est certain que le seul lieu souhaitable pour éduquer l'enfant sourd reste le milieu familial. 		</NT>
+            <RF>RF  | VE :BUSQUET D., MOTTIER Ch., L'enfant sourd. Développement psychologique et rééducation, Éditions    J. B. Baillière, Orthophonie 7, 1978, 264 p., p. 11.</RF>
+            <RF>RF | DF :	LAFON J. C., Les Enfants déficients auditifs, Simep, 1985, 207 p., p. 14. 	</RF>
+            <RF>RF | PH :	PIALOUX  P., VALTAT M., FREYSS G., LEGENT F., précis d'orthophonie, Masson, Paris, 1975, 300 p., p. 252.	</RF>
+            <RF>RF | NT :	LAFON J. C., loc. cit., p. 8.	</RF>
+        </Langue>
+    </FICHE>
+    <FICHE id="2">
+        <BE>PNR 12/2011 – 04/06/2011	</BE>
+        <TY>TY : Fiche terminologique arabe-français : concepts médicaux	</TY>
+        <AU>AU : AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina 	</AU>
+        <Langue id="AR">
+            <DO>DO : Médecine &amp; Orthophoni</DO>
+            <SD>SD : ORL; Audiologie; Surdit</SD>
+            <VE>VE  : الصمم		</VE>
+            <DF>DF  : فقد القدرة السمعية قبل تعلم الكلام أو من فقدها بمجرد تعلم الكلام لدرجة أن آثارالتعلم فقدت بسرعة.		</DF>
+            <PH>PH  : الصمم قبل اللغوي.		</PH>
+            <NT>NT  : من الممكن مساعدة بعض الصم إما بإجراء عملية جراحية لهم أو بتزويدهم بمعينات سمعية.		</NT>
+            <RF>RF  |  DF :	VE :محمد سيد فهمي، واقع رعاية المعوقين في الوطن العربي، المكتب الجامعي الحديث، الإسكندرية، مصر، 2000، ص 89.</RF>
+            <RF>RF | PH :	جمال الخطيب، مقدمة في الإعاقة السمعية، دار الفكر للطباعة والنشر، عمان، 1998، الطبعة الأولى، 303 ص، ص 27.	</RF>
+            <RF>RF | NT :	جمال الخطيب، المرجع السابق، ص 18.	</RF>
+        </Langue>
+        <Langue id="FR">
+            <DO>DO :Médecine &amp; Orthophoni</DO>
+            <SD>SD :ORL; Audiologie; Surdit</SD>
+            <VE>VE  : Surdité		</VE>
+            <DF>DF  : L'acuité auditive est insuffisante pour permettre à l'enfant d'apprendre à parler sa propre langue, de participer aux activités normales de son âge et de suivre avec profit l'enseignement scolaire général.		</DF>
+            <PH>PH  : Surdité congénitale.		</PH>
+            <NT>NT  : La présence d'une surdité dans l'enfance entraîne des altérations du comportement.		</NT>
+            <RF>RF  | VE :BUSQUET D., MOTTIER Ch., L'enfant sourd. Développement psychologique et rééducation,                   J. B. Baillière, Orthophonie, 7, 1978, 264 p., p. 11.</RF>
+            <RF>RF | DF :	BUSQUET D., MOTTIER Ch., loc. cit., J.B. Baillière, Orthophonie, 7, 1978, 264  p., p. 9.	</RF>
+            <RF>RF | PH :	PIALOUX  P., VALTAT M., FREYSS G., LEGENT F., Précis d'orthophonie, Masson, Paris, 1975, 300 p., p. 253.	</RF>
+            <RF>RF | NT :	LAFON J. C., Les Enfants déficients auditifs, Simep, 1985, 207 p., p. 75.	</RF>
+        </Langue>
+    </FICHE>
+    <FICHE id="3">
+        <BE>PNR 12/2011 – 04/06/2011	</BE>
+        <TY>TY : Fiche terminologique arabe-français : concepts médicaux	</TY>
+        <AU>AU : AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira, AUTEUR Meriem, AUTEUR Yamina 	</AU>
+        <Langue id="AR">
+            <DO>DO : Médecine &amp; Orthophoni</DO>
+            <SD>SD : ORL; Audiologie; Surdit</SD>
+            <VE>VE  : مرض الباركينسون		</VE>
+            <DF>DF  : مرض يصيب الدماغ و يقلل القدرة على التحكم في الأعصاب، يصيب غالبا البالغين ما بين الخمسين و السبعين. من أعراضه الرعاش، بطء الحركة، التصلب، و فقدان الاتزان.  		</DF>
+            <PH>PH  : الرجفة الباركينسونية.		</PH>
+            <NT>NT  : يعتمد علاج الباركينسون على استعمال الدوبامين.		</NT>
+            <RF>RF  |  NT : PH : DF :   	VE :عباس محمود عوض، علم النفس الفسيولوجي، الدار الجامعية للمطبوعات والنشر، 1981،231 ص،  ص 72.</RF>
+        </Langue>
+        <Langue id="FR">
+            <DO>DO :Médecine &amp; Orthophoni</DO>
+            <SD>SD :ORL; Audiologie; Surdit</SD>
+            <VE>VE  : Maladie de PARKINSON 		</VE>
+            <DF>DF  : Maladie traduite par la perte progressive des neurones dopaminergique, entraînant une inhibition de thalamus moteur et par la même la perte de l’activation normale des aires motrices corticales qui rend compte de la symptomatologie parkinsonienne.      		</DF>
+            <PH>PH  : Syndrome parkinsonien dégénératif.  		</PH>
+            <NT>NT  : Le traitement repose principalement sur l’utilisation de médicament dopaminergique qui n’agit ni sur la cause, ni sur la progression de la maladie, mais il reste symptomatique.  		</NT>
+            <RF>RF  | VE :AUZOU P., OZSANCAK C., Les troubles de la parole et de la déglutition dans la maladie de Parkinson, Solal, France, 2005, 432 p., p. 10.</RF>
+            <RF>RF | DF :	AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 19.	</RF>
+            <RF>RF | PH :	AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 22.   	</RF>
+            <RF>RF | NT :	AUZOU P., OZSANCAK C., loc. cit, 2005,  p. 27.   	</RF>
+        </Langue>
+    </FICHE>
+    <FICHE id="4">
+        <BE>PNR 12/2011 – 04/06/2011	</BE>
+        <TY>TY : Fiche terminologique arabe-français : concepts médicaux	</TY>
+        <AU>AU : AUTEUR Nassim, AUTEUR Abdellatif, AUTEUR Rabia, AUTEUR Nacira 	</AU>
+        <Langue id="AR">
+            <DO>DO : Médecine &amp; Orthophoni</DO>
+            <SD>SD : ORL; Audiologie; Surdit</SD>
+            <VE>VE  : لثغ بين الثنايا؛ لثغة		</VE>
+            <DF>DF  : كل العيوب الصوتية البسيطة (مفردة) التي تستمر إلى سن يتوقع لأدائها أن يتم بشكل صحيح.		</DF>
+            <PH>PH  : . اللثغة السينية، اللثغة الرائية		</PH>
+            <NT>NT  : اللثغ  بين الثنايا  يصيب الصامتات الصفيرية المهموسة و المجهورة.		</NT>
+            <RF>RF  |  DF : 	VE :م. ناصر القطبي ، الرئيس السابق ل ال IALP : “International Association of Logopaedics and Phoniatrics” ، 1995،عضو اللجنة العلمية لمجلة   :« FOLIA PHONIATRICA ET LOGOPAEDICA »  ،   المستشفى المتخصص لجامعة عين الشمس، وحدة أمراض الصوت، ، القاهرة، مصر، البريد الالكتروني ل 29 جوان 2003، الساعة: 20 و19 دقيقة.</RF>
+            <RF>RF | PH :	التدريس الأكاديمي لنصيرة بشكل ، لوحدة اضطرا بات النطق لليسانس الأرطفونيا، قسم علم النفس و علوم التربية ، جامعة الجزائر، 1997-1998، الترجمة باللغة الفرنسية لكتاب درس علم النطق العربي، ديوان المطبوعات الجامعية، الجزائر، 111 ص، ص 74،1984، دروس مترجمة إلى اللغة العربية.	</RF>
+            <RF>RF | NT :	جمال الخطيب، المرجع السابق، ص 18.	</RF>
+        </Langue>
+        <Langue id="FR">
+            <DO>DO :Médecine &amp; Orthophoni</DO>
+            <SD>SD :ORL; Audiologie; Surdit</SD>
+            <VE>VE  : Sigmatisme interdental		</VE>
+            <DF>DF  : Trouble articulatoire fonctionnel qui touche le point d’articulation.		</DF>
+            <PH>PH  : Sigmatisme interdental par substitution.		</PH>
+            <NT>NT  : Le sigmatisme est un trouble du point d’articulation.		</NT>
+            <RF>RF  | PH : DF :	VE :AUTEUR AUTEUR, AUTEUR de cas, Office des Publications Universitaires, Alger, 1992, 300 p., p. 189 ; AUTEUR AUTEUR, loc. cit., 1984,  p. 74.</RF>
+            <RF>RF | NT :	AUTEUR AUTEUR, loc. cit., 1992,  p. 189.	</RF>
+        </Langue>
+    </FICHE>
+</FICHES>
